@@ -1,0 +1,39 @@
+body{
+background-color: #F4FFF4;
+}
+.h-1{
+  text-align: center;
+  text-shadow: 2px 1px red;
+  color: orange;
+}
+.p-1::first-letter{
+  font-size: 30px;
+  color: red;
+}
+.p-1,.p-2{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.p-2::first-letter{
+  font-size: 30px;
+  color: red;
+}
+.p-1::first-line{
+  color:cadetblue;
+
+}
+.p-2::first-line{
+  color:cadetblue;
+
+ }
+  .a-1,.a-2 {
+text-decoration: none;
+ }  
+ .p-3{
+  text-align: center;
+ }
+.a-1:hover{
+  color: orange;
+ }
+ .a-2:hover{
+  color: orange;
+ }
